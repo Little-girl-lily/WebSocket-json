@@ -1,0 +1,10 @@
+E:\Liyi\Virayer\解决方案\WebSocketServer\bin\Debug\WebSocketServer.exe
+E:\Liyi\Virayer\解决方案\WebSocketServer\bin\Debug\WebSocketServer.pdb
+E:\Liyi\Virayer\解决方案\WebSocketServer\obj\x86\Debug\WebSocketServer.exe
+E:\Liyi\Virayer\解决方案\WebSocketServer\obj\x86\Debug\WebSocketServer.pdb
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\obj\x86\Debug\WebSocketServer.exe
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\obj\x86\Debug\WebSocketServer.pdb
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\bin\Debug\WebSocketServer.exe
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\bin\Debug\WebSocketServer.pdb
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WebSocket\WebSocketServer\bin\Debug\Newtonsoft.Json.dll
